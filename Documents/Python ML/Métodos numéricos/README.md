@@ -1,30 +1,20 @@
-# Convertidor de Números
+# Métodos Numéricos - Curso
 
-Un programa en Python que convierte números decimales a diferentes bases numéricas (binario, octal y hexadecimal).
+Repositorio con programas y ejercicios del curso de Métodos Numéricos.
 
-## Características
+## Estructura del Curso
 
-- Convierte un número decimal a base 2 (binario)
-- Convierte un número decimal a base 8 (octal)
-- Convierte un número decimal a base 16 (hexadecimal)
+- **01_Modulo_1/** - Introducción a Métodos Numéricos
+  - Conversión de números entre diferentes bases
 
-## Uso
+- **utils/** - Funciones y utilidades compartidas
 
-Ejecuta el programa con Python:
+## Requisitos
 
 ```bash
-python ConvertidorNum.py
+pip install -r requirements.txt
 ```
 
-## Ejemplo
+## Cómo usar
 
-```
-30 en base 10 es 30
-30 en base 2 es 0b11110
-30 en base 8 es 0o36
-30 en base 16 es 0x1e
-```
-
-## Autor
-
-Métodos numéricos - Python ML
+Cada módulo tiene su propia carpeta con un `README.md` con instrucciones específicas.

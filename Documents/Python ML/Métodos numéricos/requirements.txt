@@ -1,0 +1,2 @@
+# Sin dependencias externas por ahora
+# Se agregarán conforme se añadan más módulos
