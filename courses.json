@@ -153,6 +153,12 @@
         "title": "Estequiometría: Cálculos y Rendimiento",
         "description": "Esta clase profundiza en la estequiometría mediante el método de análisis por factor unitario, eliminando la dependencia de reglas de tres. El procedimiento central consiste en convertir las masas iniciales a moles, aplicar la relación estequiométrica derivada de los coeficientes de la ecuación balanceada y convertir finalmente a la unidad deseada.\n\nUn pilar fundamental de la lección es la identificación del reactivo limitante (el componente que se agota primero y dicta el límite de producción) y el cálculo del porcentaje de rendimiento",
         "youtubeId": "https://www.youtube.com/live/d39eCl7HA9Y?si=A33auUFUot66z2CN"
+      },
+      {
+        "id": "leccion-1783219499556",
+        "title": "Reacciones REDOX: Oxidación y Reducción",
+        "description": "Este video introduce las reacciones de óxido-reducción, explicando la oxidación como la pérdida de electrones y la reducción como la ganancia de estos. Detalla las reglas fundamentales para asignar números de oxidación en compuestos neutros y elementos puros, concluyendo con ejercicios prácticos resueltos paso a paso en sustancias como el $KMnO_4$, $H_2SO_4$ y $NaCl$.",
+        "youtubeId": "https://youtu.be/VaBCFjMMgm0"
       }
     ]
   }
