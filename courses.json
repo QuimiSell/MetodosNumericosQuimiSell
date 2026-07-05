@@ -129,6 +129,24 @@
         "title": "Conceptos de Mol y Composición Porcentual",
         "description": "Esta lección define el mol como $6.022 \\times 10^{23}$ unidades elementales y enseña a realizar conversiones entre masa (gramos) y cantidad de sustancia (moles) mediante la masa molar. Asimismo, detalla el cálculo de la composición porcentual, que permite determinar el peso relativo de cada elemento en un compuesto dividiendo su masa individual por la masa molecular total, siendo un paso esencial para comprender la composición química de las sustancias.",
         "youtubeId": "https://www.youtube.com/live/4DpE7lj9kio?si=ckyLGt5s6UKAO0rb"
+      },
+      {
+        "id": "leccion-1783219132900",
+        "title": "Fórmula Empírica y Molecular",
+        "description": "Esta lección detalla el procedimiento sistemático para determinar la composición de los compuestos. La fórmula empírica se obtiene al convertir porcentajes o masas a moles, dividir por el valor menor y, de ser necesario, aplicar un factor de redondeo para obtener números enteros. Para la fórmula molecular, se divide la masa molecular real entre la masa de la fórmula empírica, utilizando el resultado como factor multiplicador para ajustar los subíndices de la fórmula base.",
+        "youtubeId": "https://www.youtube.com/live/bmANOvv2I8I?si=9matHE115WiyVrOe"
+      },
+      {
+        "id": "leccion-1783219236517",
+        "title": "Tipos de Reacciones Químicas",
+        "description": "Esta lección clasifica las reacciones químicas en: síntesis (unión de sustancias), descomposición (ruptura de compuestos), desplazamiento simple (sustitución por reactividad) y doble desplazamiento (intercambio mutuo). También explica la neutralización entre ácidos y bases para formar sal y agua, y los tipos de combustión: completa (con $CO_2$) e incompleta (con $CO$ por falta de oxígeno).",
+        "youtubeId": "https://youtu.be/EiHrB190u3U"
+      },
+      {
+        "id": "leccion-1783219283244",
+        "title": "Balanceo de Ecuaciones Químicas",
+        "description": "Esta clase enseña a igualar ecuaciones bajo la Ley de Conservación de la Materia, diferenciando entre el método del tanteo (balanceo por inspección en orden: metales, no metales, hidrógeno y oxígeno) y el método algebraico (resolución de sistemas de ecuaciones para casos complejos). Se enfatiza la regla de oro: ajustar únicamente los coeficientes estequiométricos y nunca alterar los subíndices de las fórmulas químicas.",
+        "youtubeId": "https://www.youtube.com/live/Udc2zK6FJoI?si=WlkP0M71ynm1_vjW"
       }
     ]
   }
