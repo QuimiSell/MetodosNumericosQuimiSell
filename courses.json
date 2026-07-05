@@ -39,6 +39,18 @@
         "title": "Calorimetría: Procesos de Cambio de Estado y Temperatura",
         "description": "En esta clase, el profesor Selvin López enseña cómo determinar el calor total necesario para transformar agua en distintos estados mediante la sumatoria de calores:Fase de Cambio de Fase (Sólido a Líquido): Se calcula el calor latente necesario para fundir el hielo a 0°C. Utilizando un calor de fusión de $80 \\, \\text{cal/g}$, para 175 g de hielo se requieren $14,000 \\, \\text{cal}$ ($14 \\, \\text{kcal}$).Fase de Calentamiento (Calor Sensible): Se emplea la ecuación $Q = m \\cdot c_e \\cdot \\Delta T$ para elevar la temperatura del agua líquida. Con una masa de 175 g y un cambio de temperatura ($\\Delta T$) de 100°C, se requieren $17,500 \\, \\text{cal}$ ($17.5 \\, \\text{kcal}$).Resultado Total: Aplicando la ley de la sumatoria de calores, el requerimiento energético global para elevar la temperatura desde -10°C hasta 90°C es de 31.5 kcal.",
         "youtubeId": "https://youtu.be/Drht23HD_qs"
+      },
+      {
+        "id": "leccion-1783215536980",
+        "title": "Isótopos y Partículas Subatómicas",
+        "description": "Esta clase explica los isótopos como átomos con igual número de protones pero distinto número de neutrones. El profesor Selvin López detalla el cálculo de la masa atómica como un promedio ponderado de abundancia natural y enseña a identificar protones, electrones y neutrones usando el número atómico y la masa atómica.",
+        "youtubeId": "https://www.youtube.com/live/JBfYsvp1Xvw?si=QfBNZSovYBwMVwka"
+      },
+      {
+        "id": "leccion-1783215639166",
+        "title": "Modelos Atómicos: Del Átomo a la Cuántica",
+        "description": "Este recorrido histórico detalla la evolución del modelo atómico, desde la noción de indivisibilidad de Demócrito y los postulados de Dalton, hasta el descubrimiento de las partículas subatómicas. Se explican los modelos de Bohr, la dualidad onda-partícula y los principios cuánticos de incertidumbre que definen la comprensión probabilística actual del átomo.",
+        "youtubeId": "https://www.youtube.com/live/CzEQnZqi7lg?si=te6Wy8xCIWec9mzb"
       }
     ]
   }
