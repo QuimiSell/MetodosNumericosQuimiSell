@@ -201,6 +201,12 @@
         "title": "Ley de Gay-Lussac: Presión y Temperatura",
         "description": "Este video explica la Ley de Gay-Lussac, la cual establece que la presión de un gas es directamente proporcional a su temperatura absoluta en un proceso isocórico (a volumen constante), debido a que un aumento de temperatura acelera las partículas y multiplica sus choques contra el recipiente. Se detalla el uso de la fórmula $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$ y sus respectivos despejes matemáticos, ilustrando el procedimiento mediante la resolución de un problema práctico con condiciones normales (TPN) que requiere la conversión de unidades de temperatura a Kelvin y de presión a Torr.",
         "youtubeId": "https://youtu.be/TohHVBdHD1Q"
+      },
+      {
+        "id": "leccion-1783220584132",
+        "title": "Enlace Iónico",
+        "description": "Esta clase explica la formación de enlaces iónicos mediante la transferencia de electrones entre átomos con una diferencia de electronegatividad mayor o igual a 1.8. Se detalla cómo este proceso genera cationes y aniones que se atraen electrostáticamente, ilustrando el mecanismo con ejemplos como el cloruro de sodio (NaCl) y el cloruro de magnesio (MgCl₂).",
+        "youtubeId": "https://youtu.be/94y46c0l0nQ?si=x5CFNHyVQ4icJkWb"
       }
     ]
   }
