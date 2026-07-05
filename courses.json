@@ -183,6 +183,30 @@
         "title": "Reacciones de Desproporción y Redox Múltiple",
         "description": "Este video aborda dos variantes complejas de óxido-reducción: las reacciones de desproporción, donde una misma especie química experimenta oxidación y reducción simultáneamente, detallando su balanceo mediante la duplicación algebraico-química del compuesto base; y el redox múltiple, fenómeno en el cual múltiples elementos cambian su estado de oxidación en una sola reacción. El contenido explica cómo agrupar estas interacciones en semirreacciones, calcular el intercambio neto total de electrones y aplicar ajustes estequiométricos finales por tanteo para asegurar el balance de masa y carga.",
         "youtubeId": "https://youtu.be/6v_lKJ-dW8M"
+      },
+      {
+        "id": "leccion-1783219817261",
+        "title": "Propiedades y Estudio de los Gases",
+        "description": "Este video introduce el estado gaseoso, destacando características como la compresibilidad, la falta de forma definida y la adaptabilidad volumétrica al recipiente. Explica que el comportamiento físico y la presión de un gas dependen de la temperatura y de la velocidad de sus partículas, definiendo la presión como la fuerza ejercida por unidad de área. Asimismo, aborda el experimento histórico del barómetro de mercurio de Torricelli y establece las equivalencias fundamentales para realizar conversiones de unidades en el estudio de los gases.",
+        "youtubeId": "https://youtu.be/VnLZlhCTgfQ"
+      },
+      {
+        "id": "leccion-1783219863516",
+        "title": "Ley de Boyle: Presión y Volumen",
+        "description": "Este video explica la Ley de Boyle, la cual establece que el volumen de un gas es inversamente proporcional a su presión cuando la temperatura permanece constante. Detalla el uso de la fórmula matemática $P_1V_1 = P_2V_2$ para resolver problemas estequiométricos de gases, ilustrando el concepto mediante ejercicios prácticos paso a paso que requieren la conversión de unidades para hallar volúmenes y presiones finales, y concluye con un problema de práctica propuesto para el espectador.",
+        "youtubeId": "https://youtu.be/Lc6fxQke3Ig"
+      },
+      {
+        "id": "leccion-1783219909020",
+        "title": "Ley de Charles: Volumen y Temperatura",
+        "description": "Este video explica la Ley de Charles, la cual establece que el volumen de un gas es directamente proporcional a su temperatura absoluta en un proceso isobárico (a presión constante). Se detalla la importancia de convertir siempre la temperatura a la escala Kelvin mediante la suma de 273 a los grados Celsius, y se enseña a utilizar y despejar la fórmula matemática $\\frac{V_1}{T_1} = \\frac{V_2}{T_2}$ a través de la resolución paso a paso de ejercicios prácticos con diferentes unidades de volumen y temperatura.",
+        "youtubeId": "https://youtu.be/zv5gmga4J_Y"
+      },
+      {
+        "id": "leccion-1783219955172",
+        "title": "Ley de Gay-Lussac: Presión y Temperatura",
+        "description": "Este video explica la Ley de Gay-Lussac, la cual establece que la presión de un gas es directamente proporcional a su temperatura absoluta en un proceso isocórico (a volumen constante), debido a que un aumento de temperatura acelera las partículas y multiplica sus choques contra el recipiente. Se detalla el uso de la fórmula $\\frac{P_1}{T_1} = \\frac{P_2}{T_2}$ y sus respectivos despejes matemáticos, ilustrando el procedimiento mediante la resolución de un problema práctico con condiciones normales (TPN) que requiere la conversión de unidades de temperatura a Kelvin y de presión a Torr.",
+        "youtubeId": "https://youtu.be/TohHVBdHD1Q"
       }
     ]
   }
