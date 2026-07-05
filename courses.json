@@ -87,6 +87,18 @@
         "title": "Enlace Covalente",
         "description": "Esta clase detalla cómo los átomos comparten electrones para alcanzar estabilidad electrónica. Se clasifica en enlace polar (diferencia de electronegatividad de 0.4 a 1.79), caracterizado por una distribución desigual de carga en moléculas como el agua o el amoníaco, y enlace apolar (diferencia de 0 a 0.39), donde los electrones se comparten equitativamente, formando enlaces dobles o triples en moléculas como el oxígeno o el nitrógeno.",
         "youtubeId": "https://youtu.be/llKovzVySRY"
+      },
+      {
+        "id": "leccion-1783218611660",
+        "title": "Enlaces Químicos y Estructuras de Lewis",
+        "description": "Esta lección repasa el enlace iónico (transferencia de electrones entre metales y no metales) y profundiza en los tipos de enlaces covalentes: polares (compartición desigual) y apolares (compartición equitativa). Asimismo, se introduce el enlace coordinado o dativo y se detalla el método para dibujar estructuras de Lewis, utilizando una fórmula matemática para determinar el número de enlaces en moléculas como el $CO_2$ y el $H_2CO_3$.",
+        "youtubeId": "https://www.youtube.com/live/5B8VnOCdIAs?si=C-2jj10t5d66RQ1C"
+      },
+      {
+        "id": "leccion-1783218663452",
+        "title": "Números de Oxidación",
+        "description": "Esta clase explica los estados de oxidación como indicadores del movimiento de electrones, donde la pérdida de estos implica oxidación y la ganancia implica reducción. Se detallan reglas fundamentales, como el valor cero para elementos en estado puro y la premisa de que la suma total en compuestos neutros debe ser cero, aplicando estos criterios en ejercicios prácticos con sustancias como el agua, el ácido sulfúrico y el permanganato de potasio.",
+        "youtubeId": "https://www.youtube.com/live/PDD9ZjVKpDw?si=nCmpr69epko-PoED"
       }
     ]
   }
