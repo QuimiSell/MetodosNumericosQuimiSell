@@ -75,6 +75,18 @@
         "title": "Electrones de Valencia y Regla del Octeto",
         "description": "Esta lección explica cómo identificar los electrones del último nivel de energía y simplificar configuraciones electrónicas mediante el método \"Kernel\" basado en gases nobles. Además, detalla la representación gráfica de Lewis y el funcionamiento de la regla del octeto, que describe cómo los átomos ganan o pierden electrones para alcanzar estabilidad química.",
         "youtubeId": "https://youtu.be/QyuZaC1I3Yw"
+      },
+      {
+        "id": "leccion-1783218459988",
+        "title": "Enlace Iónico",
+        "description": "Esta clase explica la formación de enlaces iónicos mediante la transferencia de electrones entre átomos con una diferencia de electronegatividad mayor o igual a 1.8. Se detalla cómo este proceso genera cationes y aniones que se atraen electrostáticamente, ilustrando el mecanismo con ejemplos como el cloruro de sodio (NaCl) y el cloruro de magnesio (MgCl₂).",
+        "youtubeId": "https://youtu.be/fT6SQDQaCFY"
+      },
+      {
+        "id": "leccion-1783218542893",
+        "title": "Enlace Covalente",
+        "description": "Esta clase detalla cómo los átomos comparten electrones para alcanzar estabilidad electrónica. Se clasifica en enlace polar (diferencia de electronegatividad de 0.4 a 1.79), caracterizado por una distribución desigual de carga en moléculas como el agua o el amoníaco, y enlace apolar (diferencia de 0 a 0.39), donde los electrones se comparten equitativamente, formando enlaces dobles o triples en moléculas como el oxígeno o el nitrógeno.",
+        "youtubeId": "https://youtu.be/llKovzVySRY"
       }
     ]
   }
