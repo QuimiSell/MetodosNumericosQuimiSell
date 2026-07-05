@@ -51,6 +51,18 @@
         "title": "Modelos Atómicos: Del Átomo a la Cuántica",
         "description": "Este recorrido histórico detalla la evolución del modelo atómico, desde la noción de indivisibilidad de Demócrito y los postulados de Dalton, hasta el descubrimiento de las partículas subatómicas. Se explican los modelos de Bohr, la dualidad onda-partícula y los principios cuánticos de incertidumbre que definen la comprensión probabilística actual del átomo.",
         "youtubeId": "https://www.youtube.com/live/CzEQnZqi7lg?si=te6Wy8xCIWec9mzb"
+      },
+      {
+        "id": "leccion-1783215709757",
+        "title": "Configuración Electrónica",
+        "description": "Esta guía explica la distribución de electrones en los 7 niveles de energía y sus subniveles (s, p, d, f) según su capacidad máxima. Se enseña el uso del diagrama de Möller para aplicar el principio de Aufbau, permitiendo realizar configuraciones electrónicas detalladas y la representación gráfica de átomos basada en su estructura electrónica.",
+        "youtubeId": "https://www.youtube.com/live/aN3eCGVBxuo?si=J8XX8X8ZoXtk6EPG"
+      },
+      {
+        "id": "leccion-1783215773068",
+        "title": "Números Cuánticos",
+        "description": "Esta lección explica los cuatro números cuánticos derivados de la ecuación de Schrödinger: principal (n), azimutal (l), magnético (ml) y spin (ms). Se detalla cómo aplicarlos mediante diagramas de orbitales, utilizando las reglas de Pauli y Hund para localizar el electrón diferencial en diversos elementos como el carbono, sodio y hierro.",
+        "youtubeId": "https://youtu.be/cJlLmGhE-qo"
       }
     ]
   }
