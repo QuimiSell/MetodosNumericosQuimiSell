@@ -21,6 +21,24 @@
         "title": "Conversiones de Unidades y Análisis Dimensional",
         "description": "Esta clase, dirigida por el profesor Selvin López, se centra en las herramientas matemáticas necesarias para la química:\n\nFundamentos de precisión: Se establecen las reglas de redondeo y el uso de la notación científica con potencias de base 10 para manejar cantidades extremas con facilidad.\n\nAnálisis dimensional: Se explica el método de factores unitarios (igualdades) para realizar conversiones de unidades de longitud, masa y volumen de manera sistemática.\n\nEscalas de temperatura: Se detallan las fórmulas para realizar conversiones entre Celsius, Fahrenheit y Kelvin, incluyendo la derivación de fórmulas combinadas para convertir directamente entre estas escalas.",
         "youtubeId": "https://www.youtube.com/live/7965qc-BiuM?si=eCbMxEWR9nNHRaFr"
+      },
+      {
+        "id": "leccion-1783214637101",
+        "title": "Materia, Energía y Calorimetría",
+        "description": "Esta lección impartida por el profesor Selvin López integra conceptos físicos y químicos con aplicaciones prácticas en nutrición y termodinámica:Fundamentos: Se define la materia (a través de la densidad) y la energía (clasificada en cinética y potencial), diferenciando sus propiedades físicas, químicas, intensivas y extensivas.Aplicación nutricional: Se enseña a calcular el aporte energético de los alimentos utilizando el valor calórico de los macronutrientes: 4 kcal/g para carbohidratos y proteínas, y 9 kcal/g para lípidos.Termodinámica y cambios de estado: Se abordan los cambios de estado de la materia y se realizan ejercicios de calorimetría para determinar el calor necesario ($Q$) en variaciones de temperatura y cambios de fase (fusión y vaporización) del agua.",
+        "youtubeId": "https://www.youtube.com/live/8x_29yDjOFs?si=cJMB5G6B74MAcg-e"
+      },
+      {
+        "id": "leccion-1783214752046",
+        "title": "Guía Práctica de Calorimetría del Agua 1",
+        "description": "En esta lección, el profesor Selvin López desarrolla los principios para calcular la transferencia de energía en el agua:Concepto de Caloría: Se establece que 1 caloría es la energía requerida para elevar la temperatura de 1 gramo de agua en 1 °C, utilizando un calor específico de $1 \\, \\text{cal/g°C}$.Ecuación Fundamental: Se utiliza la fórmula de calorimetría para determinar el flujo de energía ($Q$):$$Q = m \\cdot c_e \\cdot \\Delta T$$Donde $m$ es la masa, $c_e$ el calor específico y $\\Delta T$ la diferencia de temperatura ($T_f - T_i$).Aplicación Práctica: A través de ejemplos resueltos, se demuestra cómo calcular el calor necesario para elevar la temperatura de masas específicas de agua, expresando los resultados tanto en calorías como en kilocalorías (kcal).",
+        "youtubeId": "https://youtu.be/XrxnO3sNTzc"
+      },
+      {
+        "id": "leccion-1783214825748",
+        "title": "Calorimetría: Procesos de Cambio de Estado y Temperatura",
+        "description": "En esta clase, el profesor Selvin López enseña cómo determinar el calor total necesario para transformar agua en distintos estados mediante la sumatoria de calores:Fase de Cambio de Fase (Sólido a Líquido): Se calcula el calor latente necesario para fundir el hielo a 0°C. Utilizando un calor de fusión de $80 \\, \\text{cal/g}$, para 175 g de hielo se requieren $14,000 \\, \\text{cal}$ ($14 \\, \\text{kcal}$).Fase de Calentamiento (Calor Sensible): Se emplea la ecuación $Q = m \\cdot c_e \\cdot \\Delta T$ para elevar la temperatura del agua líquida. Con una masa de 175 g y un cambio de temperatura ($\\Delta T$) de 100°C, se requieren $17,500 \\, \\text{cal}$ ($17.5 \\, \\text{kcal}$).Resultado Total: Aplicando la ley de la sumatoria de calores, el requerimiento energético global para elevar la temperatura desde -10°C hasta 90°C es de 31.5 kcal.",
+        "youtubeId": "https://youtu.be/Drht23HD_qs"
       }
     ]
   }
