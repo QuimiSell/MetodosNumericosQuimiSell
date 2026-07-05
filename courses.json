@@ -147,6 +147,12 @@
         "title": "Balanceo de Ecuaciones Químicas",
         "description": "Esta clase enseña a igualar ecuaciones bajo la Ley de Conservación de la Materia, diferenciando entre el método del tanteo (balanceo por inspección en orden: metales, no metales, hidrógeno y oxígeno) y el método algebraico (resolución de sistemas de ecuaciones para casos complejos). Se enfatiza la regla de oro: ajustar únicamente los coeficientes estequiométricos y nunca alterar los subíndices de las fórmulas químicas.",
         "youtubeId": "https://www.youtube.com/live/Udc2zK6FJoI?si=WlkP0M71ynm1_vjW"
+      },
+      {
+        "id": "leccion-1783219363276",
+        "title": "Estequiometría: Cálculos y Rendimiento",
+        "description": "Esta clase profundiza en la estequiometría mediante el método de análisis por factor unitario, eliminando la dependencia de reglas de tres. El procedimiento central consiste en convertir las masas iniciales a moles, aplicar la relación estequiométrica derivada de los coeficientes de la ecuación balanceada y convertir finalmente a la unidad deseada.\n\nUn pilar fundamental de la lección es la identificación del reactivo limitante (el componente que se agota primero y dicta el límite de producción) y el cálculo del porcentaje de rendimiento",
+        "youtubeId": "https://www.youtube.com/live/d39eCl7HA9Y?si=A33auUFUot66z2CN"
       }
     ]
   }
