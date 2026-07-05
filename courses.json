@@ -159,6 +159,30 @@
         "title": "Reacciones REDOX: Oxidación y Reducción",
         "description": "Este video introduce las reacciones de óxido-reducción, explicando la oxidación como la pérdida de electrones y la reducción como la ganancia de estos. Detalla las reglas fundamentales para asignar números de oxidación en compuestos neutros y elementos puros, concluyendo con ejercicios prácticos resueltos paso a paso en sustancias como el $KMnO_4$, $H_2SO_4$ y $NaCl$.",
         "youtubeId": "https://youtu.be/VaBCFjMMgm0"
+      },
+      {
+        "id": "leccion-1783219559726",
+        "title": "Balanceo de Reacciones REDOX",
+        "description": "Este video es una guía práctica para balancear ecuaciones de óxido-reducción mediante el método de semi-reacciones, identificando agentes oxidantes y reductores a través de los cambios en los números de oxidación. El contenido abarca desde el ajuste de flujos electrónicos en ejemplos complejos que requieren balanceo estequiométrico por tanteo, hasta la resolución de reacciones de desproporción, donde una misma sustancia se oxida y se reduce simultáneamente.",
+        "youtubeId": "https://youtu.be/GXsC808OZqU"
+      },
+      {
+        "id": "leccion-1783219615133",
+        "title": "Balanceo REDOX: Método del Ión-Electrón en Medio Ácido",
+        "description": "Este video explica el método del ión-electrón para balancear ecuaciones redox en medio ácido, detallando cómo equilibrar los átomos de oxígeno añadiendo moléculas de agua ($H_2O$) y los de hidrógeno mediante iones $H^+$. A través de tres ejemplos prácticos con hierro, arsénico, estaño y permanganato, se demuestra paso a paso cómo igualar semirreacciones, balancear cargas con electrones y simplificar los componentes excedentes en ambos lados de la ecuación final.",
+        "youtubeId": "https://youtu.be/FEmGo0ICfrI"
+      },
+      {
+        "id": "leccion-1783219682055",
+        "title": "Balanceo REDOX: Método del Ión-Electrón en Medio Básico",
+        "description": "Este video detalla el método del ión-electrón para balancear ecuaciones redox en medio básico, caracterizado por el uso de iones hidroxilo ($OH^-$) y moléculas de agua ($H_2O$). A través de ejemplos prácticos, como la reacción en una batería de mercurio entre el zinc y el óxido de mercurio, se explica la regla para ajustar los oxígenos añadiendo el doble de $OH^-$ necesarios y compensando con agua en el lado opuesto, culminando con la igualación de cargas mediante electrones y la simplificación de los componentes repetidos.",
+        "youtubeId": "https://youtu.be/_NU2G4pcFrU"
+      },
+      {
+        "id": "leccion-1783219749653",
+        "title": "Reacciones de Desproporción y Redox Múltiple",
+        "description": "Este video aborda dos variantes complejas de óxido-reducción: las reacciones de desproporción, donde una misma especie química experimenta oxidación y reducción simultáneamente, detallando su balanceo mediante la duplicación algebraico-química del compuesto base; y el redox múltiple, fenómeno en el cual múltiples elementos cambian su estado de oxidación en una sola reacción. El contenido explica cómo agrupar estas interacciones en semirreacciones, calcular el intercambio neto total de electrones y aplicar ajustes estequiométricos finales por tanteo para asegurar el balance de masa y carga.",
+        "youtubeId": "https://youtu.be/6v_lKJ-dW8M"
       }
     ]
   }
