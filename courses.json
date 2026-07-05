@@ -111,6 +111,24 @@
         "title": "Nomenclatura de Compuestos Inorgánicos: Hidrogenados, Sales e Hidróxidos",
         "description": "Esta clase aborda la nomenclatura de compuestos inorgánicos, iniciando con los hidrogenados: hidruros metálicos (donde el hidrógeno actúa con -1) y ácidos hidrácidos (hidrógeno con +1 en solución acuosa). Se presentan los nombres triviales de moléculas comunes como el agua y el amoníaco, y se explica la formación de sales binarias (haloideas), aleaciones y amalgamas. Finalmente, se detalla la estructura de los hidróxidos, compuestos ternarios definidos por el grupo funcional hidroxilo (OH-), explicando su formación y las reglas de nomenclatura para equilibrar cargas metálicas.",
         "youtubeId": "https://www.youtube.com/live/aXTVf28azvE?si=yR-0pAPp6wZRrJWr"
+      },
+      {
+        "id": "leccion-1783218882221",
+        "title": "Oxiácidos y Oxisales",
+        "description": "Esta clase detalla la formación de oxiácidos mediante la combinación de anhídridos con agua, aplicando las reglas de nomenclatura tradicional con prefijos y sufijos según el estado de oxidación. Se abordan casos especiales, como los elementos anfotéricos y los ácidos polihidratados (ej. ortofosfórico).\n\nPosteriormente, se explica la síntesis de oxisales, proceso donde se sustituye el hidrógeno de un oxiácido por un metal. Se establece la regla clave de nomenclatura: los ácidos terminados en \"-ico\" forman sales terminadas en \"-ato\", y los terminados en \"-oso\" forman sales en \"-ito\", ilustrado con ejemplos como el nitrato de sodio y el carbonato de calcio.",
+        "youtubeId": "https://www.youtube.com/live/Ft1CbA8gBI8?si=MkDzueaMtn_gnbOF"
+      },
+      {
+        "id": "leccion-1783218933172",
+        "title": "Sales Cuaternarias y Complejas",
+        "description": "Esta lección detalla la nomenclatura de sales derivadas de la neutralización ácido-base. Se explican las oxisales neutras, las sales ácidas (con hidrógenos residuales), las sales básicas (que conservan grupos hidroxilo) y las sales dobles (con dos metales distintos). El proceso se basa en el uso de una tabla de aniones para aplicar correctamente los sufijos y prefijos según la estructura del compuesto.",
+        "youtubeId": "https://www.youtube.com/live/gmd6cc0WSTw?si=pODzNT7v_dKQdI9E"
+      },
+      {
+        "id": "leccion-1783219005309",
+        "title": "Conceptos de Mol y Composición Porcentual",
+        "description": "Esta lección define el mol como $6.022 \\times 10^{23}$ unidades elementales y enseña a realizar conversiones entre masa (gramos) y cantidad de sustancia (moles) mediante la masa molar. Asimismo, detalla el cálculo de la composición porcentual, que permite determinar el peso relativo de cada elemento en un compuesto dividiendo su masa individual por la masa molecular total, siendo un paso esencial para comprender la composición química de las sustancias.",
+        "youtubeId": "https://www.youtube.com/live/4DpE7lj9kio?si=ckyLGt5s6UKAO0rb"
       }
     ]
   }
