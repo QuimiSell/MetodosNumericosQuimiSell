@@ -63,6 +63,18 @@
         "title": "Números Cuánticos",
         "description": "Esta lección explica los cuatro números cuánticos derivados de la ecuación de Schrödinger: principal (n), azimutal (l), magnético (ml) y spin (ms). Se detalla cómo aplicarlos mediante diagramas de orbitales, utilizando las reglas de Pauli y Hund para localizar el electrón diferencial en diversos elementos como el carbono, sodio y hierro.",
         "youtubeId": "https://youtu.be/cJlLmGhE-qo"
+      },
+      {
+        "id": "leccion-1783218331964",
+        "title": "La Tabla Periódica y sus Propiedades",
+        "description": "Esta guía detalla la organización de los elementos en grupos y periodos según su número atómico y familias químicas. Asimismo, explica las propiedades periódicas fundamentales como el radio atómico, la electronegatividad, la energía de ionización y la afinidad electrónica, las cuales determinan el comportamiento químico de los elementos.",
+        "youtubeId": "https://www.youtube.com/live/AS8_TLYttRQ?si=qfGMGWJpZECYxGqa"
+      },
+      {
+        "id": "leccion-1783218388652",
+        "title": "Electrones de Valencia y Regla del Octeto",
+        "description": "Esta lección explica cómo identificar los electrones del último nivel de energía y simplificar configuraciones electrónicas mediante el método \"Kernel\" basado en gases nobles. Además, detalla la representación gráfica de Lewis y el funcionamiento de la regla del octeto, que describe cómo los átomos ganan o pierden electrones para alcanzar estabilidad química.",
+        "youtubeId": "https://youtu.be/QyuZaC1I3Yw"
       }
     ]
   }
