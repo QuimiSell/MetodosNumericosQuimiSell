@@ -3,6 +3,25 @@
     "id": "curso-1783212281260",
     "title": "Química PreUniversitaria USAC",
     "description": "Este curso está diseñado como una herramienta integral de preparación, tanto para el proceso de admisión de la Universidad de San Carlos de Guatemala (USAC) como para reforzar los conocimientos fundamentales de Química a nivel diversificado.",
-    "lessons": []
+    "lessons": [
+      {
+        "id": "leccion-1783212462622",
+        "title": "Clase 1: Fudamentos de Química",
+        "description": "Esta clase introductoria de química abarca tres pilares fundamentales:\n\nFundamentos: Define la química como el estudio de la materia y detalla el método científico.\n\nEvolución histórica: Recorre desde la era de los metales y el atomismo griego, pasando por la alquimia y la iatroquímica, hasta la química moderna con Lavoisier (conservación de la masa) y Dalton (teoría atómica).\n\nClasificación: Presenta las cinco ramas principales de la disciplina (orgánica, inorgánica, analítica, bioquímica y fisicoquímica).",
+        "youtubeId": "https://youtu.be/wT-EqbXotdw"
+      },
+      {
+        "id": "leccion-1783212592588",
+        "title": "Fundamentos y Clasificación de la Materia",
+        "description": "Esta clase aborda la naturaleza de la materia mediante los siguientes conceptos clave:\n\nPropiedades fundamentales: Se distingue entre masa (cantidad de materia constante) y peso (fuerza variable según la gravedad), además de definir la densidad como la relación entre masa y volumen.\n\nClasificación: La materia se organiza en sustancias puras, diferenciando entre elementos (átomos iguales) y compuestos (combinaciones moleculares o iónicas).\n\nPropiedades: Se clasifican según su dependencia de la cantidad de materia (intensivas vs. extensivas), su método de percepción (cualitativas vs. cuantitativas) y su utilidad para identificar sustancias (generales vs. específicas).",
+        "youtubeId": "https://youtu.be/0QaGz8EGfLk"
+      },
+      {
+        "id": "leccion-1783212827499",
+        "title": "Conversiones de Unidades y Análisis Dimensional",
+        "description": "Esta clase, dirigida por el profesor Selvin López, se centra en las herramientas matemáticas necesarias para la química:\n\nFundamentos de precisión: Se establecen las reglas de redondeo y el uso de la notación científica con potencias de base 10 para manejar cantidades extremas con facilidad.\n\nAnálisis dimensional: Se explica el método de factores unitarios (igualdades) para realizar conversiones de unidades de longitud, masa y volumen de manera sistemática.\n\nEscalas de temperatura: Se detallan las fórmulas para realizar conversiones entre Celsius, Fahrenheit y Kelvin, incluyendo la derivación de fórmulas combinadas para convertir directamente entre estas escalas.",
+        "youtubeId": "https://www.youtube.com/live/7965qc-BiuM?si=eCbMxEWR9nNHRaFr"
+      }
+    ]
   }
 ]
