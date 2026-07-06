@@ -212,8 +212,9 @@
   },
   {
     "id": "curso-1783297544913",
-    "title": "Química Universitaria USAC",
+    "title": "Cinética y Equilibrio Químico",
     "description": "En este curso se verán los temas desde Ecuaciones Químicas  hasta Cinética y Equilibrio Químico",
-    "lessons": []
+    "lessons": [],
+    "category": "Química"
   }
 ]
