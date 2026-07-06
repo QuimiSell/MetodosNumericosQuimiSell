@@ -214,7 +214,26 @@
     "id": "curso-1783297544913",
     "title": "Cinética y Equilibrio Químico",
     "description": "En este curso se verán los temas desde Ecuaciones Químicas  hasta Cinética y Equilibrio Químico",
-    "lessons": [],
+    "lessons": [
+      {
+        "id": "leccion-1783299268138",
+        "title": "Introducción a la Cinética Química",
+        "description": "Este video introduce la cinética química como el estudio de la velocidad de las reacciones en función del tiempo, contrastando la desaparición de reactivos con la aparición de productos. Explica cómo formular expresiones de rapidez utilizando concentraciones molares y coeficientes estequiométricos fraccionarios, conectando estos cálculos con fundamentos previos de estequiometría, soluciones y leyes de los gases ($PV=nRT$). Finalmente, detalla los factores que alteran la velocidad de reacción—como la temperatura, concentración, presión, naturaleza de los reactivos y el uso de catalizadores—bajo los principios de la teoría de colisiones y la energía de activación.",
+        "youtubeId": "j38RfEza_Ic"
+      },
+      {
+        "id": "leccion-1783299354594",
+        "title": "Cinética Química: Ley y Órdenes de Reacción",
+        "description": "Este video se enfoca en la resolución de problemas prácticos de cinética química basándose en los textos de Chang y Brown. Explica cómo calcular la rapidez de formación o desaparición de sustancias a partir de ecuaciones balanceadas, y detalla la formulación de la ley de rapidez ($v = k[A]^m[B]^n$), enfatizando que los órdenes de reacción (cero, primer o segundo orden) se determinan experimentalmente y dictan las unidades de la constante de velocidad ($k$). La lección se consolida mediante ejercicios numéricos prácticos donde se calculan constantes y se predice el comportamiento de la velocidad ante cambios de concentración.",
+        "youtubeId": "N0MlT3bMqDQ"
+      },
+      {
+        "id": "leccion-1783299575472",
+        "title": "Cinética Química: Velocidades Promedio e Iniciales",
+        "description": "Este video ofrece una guía paso a paso para resolver problemas de cinética química basándose en el texto de Brown. El contenido aborda el cálculo de velocidades promedio de desaparición y aparición de sustancias en intervalos de tiempo específicos, expresadas en molaridad por segundo ($M/s$). Asimismo, detalla el uso del método de velocidades iniciales para determinar experimentalmente el orden de una reacción y su ley de velocidad, demostrando cómo dividir datos de diferentes experimentos para hallar los exponentes de los reactivos, calcular la constante de velocidad ($k$) y predecir la rapidez del sistema bajo nuevas concentraciones.",
+        "youtubeId": "jNElo1NzXpg"
+      }
+    ],
     "category": "Química"
   }
 ]
