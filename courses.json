@@ -232,6 +232,12 @@
         "title": "Cinética Química: Velocidades Promedio e Iniciales",
         "description": "Este video ofrece una guía paso a paso para resolver problemas de cinética química basándose en el texto de Brown. El contenido aborda el cálculo de velocidades promedio de desaparición y aparición de sustancias en intervalos de tiempo específicos, expresadas en molaridad por segundo ($M/s$). Asimismo, detalla el uso del método de velocidades iniciales para determinar experimentalmente el orden de una reacción y su ley de velocidad, demostrando cómo dividir datos de diferentes experimentos para hallar los exponentes de los reactivos, calcular la constante de velocidad ($k$) y predecir la rapidez del sistema bajo nuevas concentraciones.",
         "youtubeId": "jNElo1NzXpg"
+      },
+      {
+        "id": "leccion-1783301977841",
+        "title": "Cinética Química: Método Integrado y Gráfico",
+        "description": "Este video explica cómo determinar el orden de una reacción (cero, primero o segundo orden) mediante el método integrado, utilizando herramientas como Excel para identificar cuál transformación de los datos genera una línea recta:Orden 0: Recta al graficar la concentración frente al tiempo ($[A]$ vs. $t$).Orden 1: Recta al graficar el logaritmo natural de la concentración frente al tiempo ($\\ln[A]$ vs. $t$).Orden 2: Recta al graficar el inverso de la concentración frente al tiempo ($\\frac{1}{[A]}$ vs. $t$).Asimismo, se detalla que la constante de velocidad ($k$) se obtiene directamente a partir de la pendiente de la recta ($m = \\frac{y_2 - y_1}{x_2 - x_1}$), y se menciona que este mismo análisis gráfico es aplicable utilizando presiones parciales en lugar de concentraciones.",
+        "youtubeId": "APod0q7ct3Q"
       }
     ],
     "category": "Química"
