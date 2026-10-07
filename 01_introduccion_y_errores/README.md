@@ -52,16 +52,10 @@ Cuando $x_0 = 0$, la serie se denomina **Serie de Maclaurin**.
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## 🚀 Instrucciones de Ejecución y Estudio
 
-Puedes ejecutar cualquier script directamente con Python:
+Cada script es independiente y se puede ejecutar directamente en consola o abrir en tu editor de código preferido (VS Code, Jupyter, Spyder) para inspeccionar los comentarios y el desarrollo matemático paso a paso:
 
 ```bash
 python 05_maclaurin_coseno.py
-```
-
-O utilizar el menú interactivo desde la raíz del repositorio:
-
-```bash
-python quimisell_runner.py
 ```

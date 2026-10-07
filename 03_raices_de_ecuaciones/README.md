@@ -56,12 +56,11 @@ Acelera drásticamente la convergencia de iteraciones de punto fijo donde la pen
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## 🚀 Instrucciones de Ejecución y Estudio
+
+Cada script es independiente y se puede abrir y ejecutar directamente en Python para analizar los comentarios pedagógicos, los criterios de parada y las gráficas:
 
 ```bash
+python 01_metodo_biseccion.py
 python 12_fractal_newton_caos_complejo.py
-```
-O usando el menú interactivo:
-```bash
-python quimisell_runner.py
 ```

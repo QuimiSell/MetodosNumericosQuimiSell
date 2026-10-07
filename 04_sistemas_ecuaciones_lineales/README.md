@@ -54,12 +54,10 @@ Dado $a_{ii} x_i^{(k+1)} = b_i - \sum_{j < i} a_{ij} x_j - \sum_{j > i} a_{ij} x
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## 🚀 Instrucciones de Ejecución y Estudio
+
+Cada script es independiente y se puede abrir y ejecutar directamente para estudiar el código, las matrices aumentadas paso a paso y los balances de materia:
 
 ```bash
 python 01_eliminacion_gauss_pivoteo_5tanques.py
-```
-O usando el menú interactivo:
-```bash
-python quimisell_runner.py
 ```

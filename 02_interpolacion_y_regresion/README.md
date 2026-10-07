@@ -51,12 +51,10 @@ $$\beta = (X^T X)^{-1} X^T Y$$
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## 🚀 Instrucciones de Ejecución y Estudio
+
+Cada script es independiente y se puede abrir y ejecutar directamente para estudiar el código y sus visualizaciones:
 
 ```bash
 python 07_comparativa_6_metodos_interpolacion.py
-```
-O usando el menú general:
-```bash
-python quimisell_runner.py
 ```

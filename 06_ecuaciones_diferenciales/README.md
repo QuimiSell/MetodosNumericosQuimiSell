@@ -63,12 +63,11 @@ $$-\frac{r}{2} T_{i-1}^{n+1} + (1 + r) T_i^{n+1} - \frac{r}{2} T_{i+1}^{n+1} = \
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## 🚀 Instrucciones de Ejecución y Estudio
+
+Cada script es independiente y se puede abrir y ejecutar directamente para estudiar los modelos dinámicos, la analogía Feynman de Laplace y las simulaciones de ingeniería química:
 
 ```bash
 python 02_reactores_cstr_cascada_euler_modificado.py
-```
-O usando el menú interactivo:
-```bash
-python quimisell_runner.py
+python 06_laplace_2d_sor_placa_termica.py
 ```

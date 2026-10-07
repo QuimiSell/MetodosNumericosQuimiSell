@@ -58,12 +58,10 @@ $$J_{ij} = \frac{\partial f_i}{\partial x_j}$$
 
 ---
 
-## 🚀 Instrucciones de Ejecución
+## 🚀 Instrucciones de Ejecución y Estudio
+
+Cada script es independiente y se puede abrir y ejecutar directamente para estudiar el cálculo simbólico del Jacobiano, las derivadas numéricas y las integrales:
 
 ```bash
 python 03_newton_raphson_multivariable_jacobiano.py
-```
-O usando el menú interactivo:
-```bash
-python quimisell_runner.py
 ```
