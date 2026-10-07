@@ -1,0 +1,32 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode y caché
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Configuraciones de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log

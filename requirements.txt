@@ -1,0 +1,16 @@
+# ==============================================================================
+# QUIMISELL - MÉTODOS NUMÉRICOS EN PYTHON
+# Dependencias científicas necesarias para la ejecución de los métodos
+# ==============================================================================
+
+# Computación matricial y vectorial de alto rendimiento
+numpy>=1.24.0
+
+# Algoritmos científicos avanzados (optimización, interpolación, integración, EDOs)
+scipy>=1.10.0
+
+# Visualización y graficación técnica en 2D y 3D
+matplotlib>=3.7.0
+
+# Cálculo simbólico y álgebra computacional (series, jacobianos analíticos, RREF)
+sympy>=1.12.0
